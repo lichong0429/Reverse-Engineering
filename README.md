@@ -1,3 +1,9 @@
+**中文说明（仓库导览 / 练习工程 / 构建方法）→ [README.zh-CN.md](README.zh-CN.md)**
+
+> 本仓库 fork 自 [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)（DC540 逆向工程教学项目）。以下为上游英文课程索引原文。
+
+---
+
 <img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Reverse%20Engineering.png?raw=true">
 
 A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
